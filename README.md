@@ -36,7 +36,7 @@ La solution doit permettre:
 
 Vous présenterez votre design à tous, vous êtes attendu sur:
 - L'architecture globale
-- Le modèle de donnée stocké
+- Le modèle de données stockées
 - La stack technique
 
 Votre design devra se trouver dans le fichier ```projet/E1-DESIGN.md```
