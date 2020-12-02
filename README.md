@@ -30,7 +30,7 @@ __CDG-JFK 400__ represente donc un billet d'avion au départ de Paris et à dest
 Designer ce systeme de reservation de billet d'avion.
 
 La solution doit permettre:
-- de permettre à un utilisateur de voir la liste des voles disponible
+- de permettre à un utilisateur de voir la liste des vols disponible
 - de reservations des billets d'avion 
 - de voir ce qu'il a reservé
 
