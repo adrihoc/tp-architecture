@@ -1,15 +1,15 @@
 # TP Architecture Distribué
 
 Ce TP fonctionne par groupe de 4 ou 5.
-Nous allons réalisé une solution, ultra simplifié de reservation de billet d'avion.
-Nous gérons 3 aéroports:
+Nous allons réalisé une solution ultra-simplifiée de réservation de billet d'avion.
+Nous gérons 3 aéroports :
 - New York qui porte le code JFK
 - CDG Paris qui porte le code CDG
 - Detroit qui porte le code DTW
 
 Tous les jours, des billets d'avions sont disponible.
 Un billet d'avion est consituté:
-- D'un code depart
+- D'un code départ
 - D'un code destination
 - D'un prix (en Euros)
 
