@@ -31,15 +31,15 @@ Designer ce systeme de reservation de billet d'avion.
 
 La solution doit permettre:
 - de permettre à un utilisateur de voir la liste des vols disponible
-- de reservations des billets d'avion 
+- de réservations des billets d'avion 
 - de voir ce qu'il a reservé
 
 Vous présenterez votre design à tous, vous êtes attendu sur:
 - L'architecture globale
-- Le modele de donnée stocké
+- Le modèle de donnée stocké
 - La stack technique
 
-Votre deisgn devra se trouver dans le fichier ```projet/E1-DESIGN.md```
+Votre design devra se trouver dans le fichier ```projet/E1-DESIGN.md```
 
 ## Etape 2
 
